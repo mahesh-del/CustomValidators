@@ -1,0 +1,30 @@
+form div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+div div {
+    color: red;
+    font-size: 12px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+button[disabled] {
+    background-color: #d6d6d6;
+}
